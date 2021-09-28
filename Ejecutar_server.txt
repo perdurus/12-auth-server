@@ -1,0 +1,5 @@
+arrancar server
+C:\Users\scanalr\Desktop\Angular\Proyectos\12-auth-server>npm run dev
+
+
+Mongo db pwd: 70idTypM2sXouTvL
